@@ -45,7 +45,7 @@ SpendTracker is open-source software licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions, feedback, or support, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions, feedback, or support, please contact [mail@rsl.com.np](mailto:mail@rsl.com.np).
 
 ## Acknowledgments
 
