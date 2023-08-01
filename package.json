@@ -2,10 +2,10 @@
   "name": "spendtracker",
   "version": "1.0.0",
   "description": "SpendTracker to track spending from various wallets like eSewa, Khalti, Paypal,  banks, etc",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "npm run test",
-    "dev": "nodemon server.js"
+    "dev": "nodemon ./src/app.js"
   },
   "repository": {
     "type": "git",
@@ -34,6 +34,9 @@
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
     "express": "^4.18.2",
-    "nodemon": "^3.0.1"
+    "nodemon": "^3.0.1",
+    "pg": "^8.11.2",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.32.1"
   }
 }
