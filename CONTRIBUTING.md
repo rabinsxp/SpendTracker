@@ -46,7 +46,7 @@ Please note that by contributing to SpendTracker, you agree to abide by our [Cod
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out to [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or need assistance, feel free to reach out to [mail@rsl.com.np](mailto:mail@rsl.com.np).
 
 ---
 
