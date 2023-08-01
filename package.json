@@ -1,0 +1,39 @@
+{
+  "name": "spendtracker",
+  "version": "1.0.0",
+  "description": "SpendTracker to track spending from various wallets like eSewa, Khalti, Paypal,  banks, etc",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabinsxp/SpendTracker.git"
+  },
+  "keywords": [
+    "spend",
+    "tracker",
+    "wallets",
+    "eSewa",
+    "khalti",
+    "paypal",
+    "imepay",
+    "moru",
+    "paypal",
+    "paytm",
+    "phonepe"
+  ],
+  "author": "Rabins Sharma Lamichhane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rabinsxp/SpendTracker/issues"
+  },
+  "homepage": "https://github.com/rabinsxp/SpendTracker#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
